@@ -1,4 +1,5 @@
-Exploratory Data Analysis (EDA) is a crucial step in the data analysis process. It involves examining and visualizing data to understand its main characteristics, uncover patterns, detect anomalies, and formulate initial hypotheses. Here are some key steps and techniques typically used in exploratory data analysis:
+## Exploratory Data Analysis
+EDA is a crucial step in the data analysis process. It involves examining and visualizing data to understand its main characteristics, uncover patterns, detect anomalies, and formulate initial hypotheses. Here are some key steps and techniques typically used in exploratory data analysis:
 
 Data Collection: Gather the relevant dataset you want to analyze. Ensure the dataset is well-structured and contains the necessary variables for analysis.
 
